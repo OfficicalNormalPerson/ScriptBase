@@ -1,7 +1,8 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.1.0",
   "changelog": [
-    "You can now add scripts locally",
-    "Improved UI loading time"
+    "Fixed scaling",
+    "Added more scripts",
+    "Fixed multiple bugs",
   ]
 }
